@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI, I'm @m1ch93l<br>I'm interested in Web Development both Front end and Back end<br>I'm currently learning Laravel and Vue<br>I'm currently working on stuff
+HI, I'm @m1ch93l<br>I'm interested in Web Development both Front end and Back end<br>I'm currently learning Laravel, React, and Vue.<br>I'm currently working on stuff
 
 
 ## 🌐 Socials:
