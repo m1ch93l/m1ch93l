@@ -61,7 +61,7 @@ I love designing systems that are light yet powerful and beautiful yet effective
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=m1ch93land&&style=flat-square)  
   
 
 <br/>  
