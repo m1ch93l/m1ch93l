@@ -19,7 +19,7 @@
 
 ### Glad to see you here!  
 I'm interested in Web Development both Front end and Back end.
-Experienced in HTMX and PHP. 
+Experienced in JS and PHP. 
 I love designing systems that are light yet powerful and beautiful yet effective.   
   
 
