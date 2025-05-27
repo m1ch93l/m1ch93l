@@ -19,7 +19,7 @@
 
 ### Glad to see you here!  
 I'm interested in Web Development both Front end and Back end.
-Experienced in JS and PHP. 
+Experienced in PHP and JS. 
 I love designing systems that are light yet powerful and beautiful yet effective.   
   
 
