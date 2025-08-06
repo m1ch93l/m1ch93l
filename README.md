@@ -32,7 +32,7 @@ I love designing systems that are light yet powerful and beautiful yet effective
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="25" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
-<a href="https://htmx.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/bigskysoftware/htmx/master/www/static/img/htmx_logo.1.png" alt="htmx" height="25" /></a>  
+<a href="https://htmx.org/" target="_blank"><img style="margin: 10px" src="https://htmx.org/favicon.svg" alt="htmx" height="25" /></a>  
 </div>  
 
 <br/>  
