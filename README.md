@@ -11,11 +11,8 @@
 
 
 
-### Glad to see you here!  
-I'm interested in Web Development both Front end and Back end.
-Experienced in PHP and JS. 
-I love designing systems that are light yet powerful and beautiful yet effective.   
-  
+### Glad to see you here!
+I'm passionate about full-stack web development, with hands-on experience in both front-end and back-end technologies. Skilled in PHP (Laravel) and JavaScript (Vue), I specialize in crafting systems that are lightweight yet powerful, and designs that are visually stunning while remaining highly functional. I believe in building digital experiences that are as elegant as they are efficient.
 
 <br/>  
 
